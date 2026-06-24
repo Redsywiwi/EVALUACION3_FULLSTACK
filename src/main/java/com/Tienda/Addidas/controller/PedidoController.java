@@ -3,8 +3,6 @@ import com.Tienda.Addidas.service.PedidoService;
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
-
-import com.Tienda.Addidas.model.Cliente;
 import com.Tienda.Addidas.model.Pedido;
 
 import org.springframework.beans.factory.annotation.Autowired;

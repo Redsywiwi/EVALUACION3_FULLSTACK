@@ -3,8 +3,6 @@ import com.Tienda.Addidas.service.EnvioService;
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
-
-import com.Tienda.Addidas.model.Cliente;
 import com.Tienda.Addidas.model.Envio;
 
 import org.springframework.beans.factory.annotation.Autowired;
